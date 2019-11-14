@@ -32,3 +32,5 @@ plugins:
  - jekyll-default-layout
 
 remote_theme: niklasbuschmann/contrast@v1.0
+
+theme: jekyll-theme-minimal
