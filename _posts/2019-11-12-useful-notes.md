@@ -4,7 +4,7 @@ categories: Notes
 mathjax: true
 ---
 
-I found myself quite often going back to the instructions to do some little tasks when using virtualenvs and jupyter notebooks, so instead of learning them for memory I decided to make my own notes to come here every time I need to and find everything in one place.
+I found myself quite often going back to the instructions to do some tasks when using virtualenvs and jupyter notebooks, so instead of learning them by memory I decided to make my own notes to come here every time I need to and find everything in one place.
 
 ## Summary
 
@@ -105,7 +105,7 @@ In the following way:
 * Check distribution
 ```
 
-Then, in the respective section of your notebook (In the exploration section), we add a text snippet with the tag using an id named exploration:
+Then, in the respective section of your notebook (In the exploration section), we add a text cell with a tag using an id named "exploration":
 
 ```
 <a id='exploration'></a>
@@ -113,6 +113,8 @@ Then, in the respective section of your notebook (In the exploration section), w
 ```
 
 And that’s it! Now it’s really easy to walk through large notebooks and go exactly to the section of interest.
+
+You can check the "Summary" section in the beginning of this post as an example of this.
 
 
 <a id='nbtohtml'></a>
@@ -179,7 +181,9 @@ I use this to create blog posts by writing a markdown file and transform them in
 There are better ways to do it (like using a jekyll template) but… well, it works for me.
 
 Libraries:
+
 [https://github.com/Python-Markdown/markdown](https://github.com/Python-Markdown/markdown)
+
 [https://pygments.org/](https://pygments.org/)
 
 Install libraries:
