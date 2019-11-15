@@ -3,6 +3,7 @@ layout: ipynb
 title:  "Classification exercise: Who survives the titanic disaster?"
 categories: ML
 mathjax: true
+text: This notebook is part of a data science pipeline exercise, the full project can be found <a href="https://jfreek.github.io/ml_pipeline/">here.</a>
 ---
 
 <head><meta charset="utf-8" />
