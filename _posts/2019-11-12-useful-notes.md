@@ -18,7 +18,7 @@ How to add Index or summaries like this one in a notebook or a markdown file.
 Steps to convert a jupyter notebook into an HTML file.
 ### <a href="#nbtoslide">Jupyter notebook to Slideshow</a>
 Steps to make a notebook work as a slideshow.
-### <a href="#mdtohtml">Markdown file to HTML</a>
+### <a href="#mdtohtml">Extra: Markdown file to HTML</a>
 Convert a markdown file like this one into an HTML file you can publish.
 
 
@@ -71,7 +71,7 @@ Check the documentation: [https://jupyter.org/](https://jupyter.org/)
 
 * Select a new kernel with your environment
 
-![alt-text](https://jfreek.github.io/assets/img/notes/virtualenv_jupyter_example.png)
+![alt-text](../assets/img/notes/virtualenv_jupyter_example.png)
 
 * Enjoy!
 
@@ -156,11 +156,11 @@ First run the notebook:
 
 Then, go to the menu bar and click on `view--> Cell Toolbar--> Slideshow`
 
-![alt-text](https://jfreek.github.io/assets/img/notes/slideshow1.png)
+![alt-text](../assets/img/notes/slideshow1.png)
 
 After that check the top right side of your cells and select `slide`.
 
-![alt-text](https://jfreek.github.io/assets/img/notes/slideshow2.png)
+![alt-text](../assets/img/notes/slideshow2.png)
 
 Finally run on the terminal:
 `jupyter nbconvert --to slides notebook.ipynb --post serve`
@@ -176,9 +176,10 @@ Just to convert it and look at it later as a normal HTML file.
 
 
 <a id='mdtohtml'></a>
-## Markdown to html
-I use this to create blog posts by writing a markdown file and transform them into html.
-There are better ways to do it (like using a jekyll template) but… well, it works for me.
+## Extra: Markdown to html
+I used this to create blog posts by writing a markdown file and transform them into html.
+
+Then I discovered jekyll, but I'll add this part just in case I need it in the future.
 
 Libraries:
 

@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "CONTACT"
-<!-- permalink: contact -->
 ---
 
 # Send me a message
