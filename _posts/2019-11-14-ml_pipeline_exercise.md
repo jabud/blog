@@ -697,7 +697,7 @@ data = data.drop(['Cabin', 'Name', 'Ticket', 'PassengerId'], axis=1)
 data.corr()
 ```
 
-![corrs](../assets/img/corrs.png)
+![corrs](../assets/img/exercises/corrs.png)
 
 
 We have some obvious strong correlations between `SibSp`, `Parch` and `fam_size`, since we created that feature with them.
@@ -1162,7 +1162,7 @@ feat_imp.plot.bar(y='importance')
 ```
 
 
-![png](../assets/img/output_100_1.png)
+![png](../assets/img/exercises/output_100_1.png)
 
 
 ### Dropping least important features

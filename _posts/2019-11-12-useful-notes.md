@@ -21,6 +21,7 @@ Steps to make a notebook work as a slideshow.
 ### <a href="#mdtohtml">Extra: Markdown file to HTML</a>
 Convert a markdown file like this one into an HTML file you can publish.
 
+UPDATE: Jupyter notebooks can be downloaded from the begining as HTML, Slides, Markdown, etc. The option is in the `File>>Download as` section.
 
 <a id='venv'></a>
 ## VirtualEnv
@@ -232,5 +233,4 @@ Add html with CSS and other useful links:
 </html>
 ```
 
-In my case I already have a template with the html structure and css, so that is the one I am using.
-The result is… this article.
+Thst is it!
