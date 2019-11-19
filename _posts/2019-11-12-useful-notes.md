@@ -196,9 +196,6 @@ Install libraries:
 
 The first one is to convert markdown files and the second to create a CSS in case we need it.
 
-Example of a markdown file:
-[notes.md](https://github.com/jfreek/jfreek.github.io/blob/master/blog/notes.md)
-
 Convert:
 
 ```bash
@@ -233,4 +230,4 @@ Add html with CSS and other useful links:
 </html>
 ```
 
-Thst is it!
+That is it!
