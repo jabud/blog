@@ -5,8 +5,8 @@ title: "CONTACT"
 
 # Send me a message
 * [Telegram](https://telegram.me/jfreek)
-* Email: [jorge@jabud.tech](mailto:jorge@jabud.tech)
+* Email: [jorge.abud@pm.me](mailto:jorge.abud@pm.me)
 
 # Stay in touch
 * [Linkedin](https://www.linkedin.com/in/jorgeabud/)
-* [Github](https://github.com/jfreek)
+* [Github](https://github.com/jabud)
